@@ -104,7 +104,6 @@ def shiftleft():
     LAR=LAR+.000436364
     ref.ref[ha.LAR] =LAR 
     r.put(ref) 
-
 def shiftright():
   RHR=0
   LHR=0
