@@ -11,7 +11,5 @@ The hubo-ach daemon must be run in a separate terminal using the following comma
 
 Finally 'hubodrcwalk.py' should be run in another terminal window.
 
-To try the single foor squat 'hubo-drc-with-squat.py' should be run
-
 The single foot squat is still work in progress,It works works best with the left foot squat
  
