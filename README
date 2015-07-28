@@ -1,7 +1,9 @@
+This is the walking gait for the DRC Hubo
+
 Note:
 The following dependencies have to be installed for the code to work
-i)   ACH IPC
-ii)  HUBO-ACH 
+i)   ACH IPC (https://smartech.gatech.edu/handle/1853/40934  & http://golems.github.io/ach/manual/)
+ii)  HUBO-ACH (https://github.com/hubo/hubo-ach)
 
 
 In order to run the code
